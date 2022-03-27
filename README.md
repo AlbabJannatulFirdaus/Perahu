@@ -1,4 +1,4 @@
 # Perahu
 UTS PAM
 
-Code Progam ada di Master
+Code Progam ada di Branches Master bukan Main
